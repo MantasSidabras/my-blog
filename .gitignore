@@ -3,5 +3,5 @@ node_modules
 dist
 tmp
 /public
-/resources
 themes/lowkey
+/resources/_gen/
