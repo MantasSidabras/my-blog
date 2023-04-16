@@ -1,4 +1,4 @@
 [submodule "public"]
 	path = public
-	url = https://github.com/MantasSidabras/minimaldev
+	url = git@github.com:MantasSidabras/minimaldev.git
 	branch = main
