@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome to my blog! on Shiba codes</title>
+    <link>https://minimaldev.github.io/</link>
+    <description>Recent content in Welcome to my blog! on Shiba codes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>{year}</copyright>
+    <lastBuildDate>Sat, 15 Apr 2023 13:07:29 +0300</lastBuildDate><atom:link href="https://minimaldev.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My-First-Post</title>
+      <link>https://minimaldev.github.io/posts/my-first-post/</link>
+      <pubDate>Sat, 15 Apr 2023 13:07:29 +0300</pubDate>
+      
+      <guid>https://minimaldev.github.io/posts/my-first-post/</guid>
+      <description>Hello there! I like static sites, they are the best!
+The quick brown fox jumps over the lazy dog</description>
+    </item>
+    
+    <item>
+      <title>Advanced architecture</title>
+      <link>https://minimaldev.github.io/posts/advanced-architecture/advanced-architecture/</link>
+      <pubDate>Sat, 15 Apr 2023 09:16:45 +0000</pubDate>
+      
+      <guid>https://minimaldev.github.io/posts/advanced-architecture/advanced-architecture/</guid>
+      <description>This Markdown cheat sheet provides a quick overview of all the Markdown syntax elements. It can’t cover every edge case, so if you need more information about any of these elements, refer to the reference guides for basic syntax and extended syntax.</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>https://minimaldev.github.io/about/</link>
+      <pubDate>Sat, 15 Apr 2023 00:43:15 +0300</pubDate>
+      
+      <guid>https://minimaldev.github.io/about/</guid>
+      <description>Hi, my name is Jon Doe</description>
+    </item>
+    
+    <item>
+      <title>About dragons</title>
+      <link>https://minimaldev.github.io/posts/about-dragons/</link>
+      <pubDate>Sat, 27 Aug 2022 09:16:45 +0000</pubDate>
+      
+      <guid>https://minimaldev.github.io/posts/about-dragons/</guid>
+      <description>This Markdown cheat sheet provides a quick overview of all the Markdown syntax elements. It can’t cover every edge case, so if you need more information about any of these elements, refer to the reference guides for basic syntax and extended syntax.</description>
+    </item>
+    
+    <item>
+      <title>Markdown Cheat Sheet</title>
+      <link>https://minimaldev.github.io/posts/markdown-cheat-sheet/</link>
+      <pubDate>Sat, 27 Aug 2022 09:16:45 +0000</pubDate>
+      
+      <guid>https://minimaldev.github.io/posts/markdown-cheat-sheet/</guid>
+      <description>This Markdown cheat sheet provides a quick overview of all the Markdown syntax elements. It can’t cover every edge case, so if you need more information about any of these elements, refer to the reference guides for basic syntax and extended syntax.</description>
+    </item>
+    
+  </channel>
+</rss>
