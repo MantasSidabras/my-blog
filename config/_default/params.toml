@@ -5,7 +5,8 @@ isSinglePage = true
 description = "Hello"
 
 # Header Configuration
-avatar = "img/profile-picture.jpg"
+avatar = "img/shiba-avatar.png"
+# avatar = "img/profile-picture.jpg"
 
 [emoji]
 enableEmoji = true

@@ -23,28 +23,33 @@
     weight = 4
 
 [[main]]
-    identifier = "donate"
-    name = "Donate"
-    url = "https://ko-fi.com/nixentric"
+    identifier = "about me"
+    name = "About me"
+    url = "/about"
     weight = 5
+# [[main]]
+#     identifier = "donate"
+#     name = "Donate"
+#     url = "https://ko-fi.com/nixentric"
+#     weight = 5
 
 
 # Social Media Configuration
 
-[[social]]
-    identifier = "twitter"
-    name = "Twitter"
-    url = "#"
-    weight = 1
-
-[[social]]
-    identifier = "instagram"
-    name = "Instagram"
-    url = "#"
-    weight = 2
+# [[social]]
+#     identifier = "twitter"
+#     name = "Twitter"
+#     url = "#"
+#     weight = 1
+#
+# [[social]]
+#     identifier = "instagram"
+#     name = "Instagram"
+#     url = "#"
+#     weight = 2
 
 [[social]]
     identifier = "github"
     name = "GitHub"
-    url = "#"
+    url = "https://github.com/MantasSidabras"
     weight = 3
