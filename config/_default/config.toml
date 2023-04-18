@@ -16,8 +16,9 @@ paginate = 5
       lineNoStart = 1
       lineNos = false
       lineNumbersInTable = false
-      tabWidth = 4
-      noClasses = false
+      tabWidth = 2
+      noClasses = true
+      style = 'onedark'
 
 [params.mermaid]
     theme = "light"

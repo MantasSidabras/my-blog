@@ -1,5 +1,5 @@
 ---
-title: "Advanced architecture"
+title: "Experiment with stuff"
 draft: false
 date: 2023-04-15T09:16:45.000Z
 description: "This is an example how to do a lot of things from scratch"
